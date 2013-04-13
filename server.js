@@ -1,0 +1,1 @@
+paynode = Npm.require("paynode");
